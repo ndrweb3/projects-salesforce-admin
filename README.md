@@ -1,36 +1,48 @@
-# projects-salesforce-admin
+## projects-salesforce-admin
 
+This repository contains a collection of personal projects developed to demonstrate my skills as a Salesforce Administrator. The projects simulate real business scenarios, focusing on automation, customization, governance, and best practices within the Salesforce platform.
 
-Este repositório contém uma coleção de projetos pessoais desenvolvidos para demonstrar minhas habilidades como Administradora Salesforce. Os projetos simulam situações reais de negócios, com foco em automações, personalizações, governança e boas práticas na plataforma Salesforce.
+##  Technologies and Tools:
 
+Salesforce Flow (Flow Builder)
 
-## Tecnologias e Ferramentas
+Process Builder
 
-- Salesforce Flow (Flow Builder)
-- Process Builder
-- Workflow Rules
-- Objetos Customizados e Campos
-- Layouts de Página e Lightning App Builder
-- Perfis, Permission Sets e Roles
-- Regras de Validação
-- Relatórios e Dashboards
-- Data Loader (básico)
-- Configurações Administrativas na Salesforce Setup
-- Marketing Cloud (Email Studio, Journey Builder)
+Workflow Rules
 
-## Nuvens 
+Custom Objects and Fields
 
--Core Salesforce Platform: Administração da plataforma base, incluindo configuração de objetos, automações (Flow, Process Builder), segurança e relatórios.
--Sales Cloud: Gestão de vendas, leads, contas e oportunidades.
--Service Cloud: Atendimento ao cliente, casos e suporte.
--Marketing Cloud: Automação de marketing digital e campanhas.
+Page Layouts and Lightning App Builder
 
-  
-## Conecte-se comigo
+Profiles, Permission Sets, and Roles
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/nandrasilveira/
-- ✉️ Email:nandramixci@gmail.com
-- 🌐 Trailhead: https://www.salesforce.com/trailblazer/nandrasilveira
+Validation Rules
+
+Reports and Dashboards
+
+Data Loader (basic)
+
+Administrative Settings in Salesforce Setup
+
+Marketing Cloud (Email Studio, Journey Builder)
+
+## Clouds:
+
+Core Salesforce Platform: Administration of the base platform, including object configuration, automation (Flow, Process Builder), security, and reporting.
+
+Sales Cloud: Management of sales, leads, accounts, and opportunities.
+
+Service Cloud: Customer service management, cases, and support.
+
+Marketing Cloud: Digital marketing automation and campaigns.
+
+##  Connect with me :
+
+💼 LinkedIn:https://www.linkedin.com/in/nandrasilveira/
+
+✉️ Email: nandramixci@gmail.com
+
+🌐 Trailhead: https://www.salesforce.com/trailblazer/nandrasilveira
 
 
 
